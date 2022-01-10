@@ -1,5 +1,5 @@
 # 모던 자바스크립트의 아마추어부터 프로가 되기까지
-코딩/개발 크리에이터 **우리밋_woorimIT**의 스터디 겸 강의 자료입니다. 함께 공부해요😁  
+코딩/개발 크리에이터 [우리밋_woorimIT](https://www.youtube.com/channel/UCS0F25vig_sPIQXMiK8IdSg)의 스터디 겸 강의 자료입니다. 함께 공부해요😁  
 PR은 언제든 환영입니다.
 
 ## 목차
