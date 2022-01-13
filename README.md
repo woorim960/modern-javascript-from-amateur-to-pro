@@ -65,7 +65,7 @@ PR은 언제든 환영입니다.
       * [1.3.1 실행 환경](https://bit.ly/33n8sDK)
       * [1.3.2 웹 브라우저](https://bit.ly/33pNkgo)
       * [1.3.3 Node.js](https://bit.ly/3FkfXIX)
-      * [1.3.4 비쥬얼 스튜디오 코드](https://bit.ly/34QUifb)
+      * [1.3.4 비주얼 스튜디오 코드](https://bit.ly/34QUifb)
    * [1.4.0 변수](https://bit.ly/3niJ6hC)
       * [1.4.1 변수와 상수에 대하여](https://bit.ly/3raZ7qX)
       * [1.4.2 var, let, const](https://bit.ly/3nj38sj)
