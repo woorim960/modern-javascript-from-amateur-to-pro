@@ -99,7 +99,7 @@ PR은 언제든 환영입니다.
       * [1.9.4 프로퍼티 접근, 추가, 수정, 삭제](https://bit.ly/3AeiCTJ)
    * [1.10.0 함수](https://bit.ly/333NFpj)
       * [1.10.1 함수에 대하여](https://bit.ly/333Ntq5)
-      * [1.10.2 함수 선언문과 표현식](https://bit.ly/3FjIyyb)
+      * [1.10.2 함수를 왜 사용할까](https://bit.ly/3FjIyyb)
       * [1.10.3 함수 호출](https://bit.ly/3rePV57)
    * [마무리하며](https://bit.ly/34IAkmG)
 
