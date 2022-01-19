@@ -96,7 +96,7 @@ PR은 언제든 환영입니다.
       * [1.9.1 객체에 대하여](https://bit.ly/3GjRBQU)
       * [1.9.2 객체 생성](https://bit.ly/3Gl0GsV)
       * [1.9.3 프로퍼티와 메서드](https://bit.ly/3fcFGZo)
-      * [1.9.4 프로퍼티의 동적 생성과 수정, 삭제](https://bit.ly/3fllKTW)
+      * [1.9.4 프로퍼티 접근, 추가, 수정, 삭제](https://bit.ly/3AeiCTJ)
    * [1.10.0 함수](https://bit.ly/333NFpj)
       * [1.10.1 함수에 대하여](https://bit.ly/333Ntq5)
       * [1.10.2 함수 선언문과 표현식](https://bit.ly/3FjIyyb)
