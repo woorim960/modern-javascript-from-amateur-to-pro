@@ -100,7 +100,8 @@ PR은 언제든 환영입니다.
    * [1.10.0 함수](https://bit.ly/333NFpj)
       * [1.10.1 함수에 대하여](https://bit.ly/333Ntq5)
       * [1.10.2 함수를 왜 사용할까](https://bit.ly/3FOalHc)
-      * [1.10.3 함수 호출](https://bit.ly/3rePV57)
+      * [1.10.3 매개변수와 인수](https://bit.ly/3FJZe25)
+      * [1.10.4 좋은 함수](https://bit.ly/3KuaC5w)
    * [마무리하며](https://bit.ly/34IAkmG)
 
 <hr>
