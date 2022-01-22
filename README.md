@@ -147,7 +147,7 @@ PR은 언제든 환영입니다.
       * [2.9.5 참조에 의한 전달과 외부 상태의 변경](https://bit.ly/3fL9uMS)
       * [2.9.6 다양한 함수의 형태](https://bit.ly/3In6lPu)
       * [2.9.7 순수 함수와 비순수 함수](https://bit.ly/33YDphQ)
-   * [마무리하며]()
+   * [마무리하며](https://bit.ly/3KwM9g1)
 
 <hr>
 
