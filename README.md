@@ -102,10 +102,14 @@ PR은 언제든 환영입니다.
       * [1.10.2 함수를 왜 사용할까](https://bit.ly/3FOalHc)
       * [1.10.3 매개변수와 인수](https://bit.ly/3FJZe25)
       * [1.10.4 좋은 함수](https://bit.ly/3KuaC5w)
-   * [1.11.0 배열](https://bit.ly/3tJRMS2)
-      * [1.11.1 배열에 대하여](https://bit.ly/3rAHCAv)
-      * [1.11.2 배열 생성](https://bit.ly/3tG1dCa)
-      * [1.11.3 요소 접근, 추가, 수정, 삭제](https://bit.ly/3fM5P1g)
+   * [1.11.0 배열](https://bit.ly/3uy0wep)
+      * [1.11.1 배열에 대하여](https://bit.ly/3uuvmot)
+      * [1.11.2 배열 생성](https://bit.ly/34HLaJn)
+      * [1.11.3 요소 접근, 추가, 수정, 삭제](https://bit.ly/3Gzrq84)
+    * [1.12.0 보너스 | for의 종류](https://bit.ly/3HBuEcI)
+      * [1.12.1 for...in문](https://bit.ly/3GGrtiM)
+      * [1.12.2 for...of문](https://bit.ly/3B9ha5E)
+      * [1.12.3 forEach 고차함수](https://bit.ly/3Lf2WVp)
    * [마무리하며](https://bit.ly/34IAkmG)
 
 <hr>
